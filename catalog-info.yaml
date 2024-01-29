@@ -1,0 +1,11 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: link_bazaarvoice
+  description: Bazaarvoice cartridge
+  annotations:
+   github.com/project-slug: simpleenergy/link_bazaarvoice
+spec:
+  type: library
+  lifecycle: production
+  owner: group:uplight-inc/jaguars
