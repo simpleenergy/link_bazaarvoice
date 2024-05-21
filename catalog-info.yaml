@@ -5,11 +5,10 @@ metadata:
   description: Bazaarvoice cartridge
   annotations:
    github.com/project-slug: simpleenergy/link_bazaarvoice
-   lucid.app/arch-diagrams: https://lucid.app/lucidchart/2c5c496f-13a9-4690-80d9-3a6a7e6e3814/edit?invitationId=inv_1d08b8d6-e3d0-4ed6-9136-62663fe046f2
-  links:
-  - url: https://lucid.app/lucidchart/2c5c496f-13a9-4690-80d9-3a6a7e6e3814/edit?invitationId=inv_1d08b8d6-e3d0-4ed6-9136-62663fe046f2
-    title: C4 Diagram
-    icon: apps
+   lucid.app/arch-diagrams: N/A
+   uplightinc.atlassian.net/sla: https://uplightinc.atlassian.net/wiki/spaces/JAG/pages/7436894395/Marketplace+-+Service+Level+Agreements
+   uplightinc.atlassian.net/sli: https://uplightinc.atlassian.net/wiki/spaces/JAG/pages/7445774739/Marketplace+-+Service+Level+Indicators
+   uplightinc.atlassian.net/slo: https://uplightinc.atlassian.net/wiki/spaces/JAG/pages/7446200322/Marketplace+-+Service+Level+Objectives
 spec:
   type: library
   lifecycle: production
