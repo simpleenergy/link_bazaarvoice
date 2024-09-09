@@ -9,6 +9,14 @@ metadata:
    uplightinc.atlassian.net/sla: https://uplightinc.atlassian.net/wiki/spaces/JAG/pages/7436894395/Marketplace+-+Service+Level+Agreements
    uplightinc.atlassian.net/sli: https://uplightinc.atlassian.net/wiki/spaces/JAG/pages/7445774739/Marketplace+-+Service+Level+Indicators
    uplightinc.atlassian.net/slo: https://uplightinc.atlassian.net/wiki/spaces/JAG/pages/7446200322/Marketplace+-+Service+Level+Objectives
+   pagerduty.com/service-id: P9HDNFJ
+   uplightinc.atlassian.net/incident-management: https://uplightinc.atlassian.net/wiki/spaces/PE/pages/7023263853/Marketplace+Outage+Communication+Protocol
+   uplightinc.atlassian.net/deployment-strategy: https://uplightinc.atlassian.net/wiki/spaces/PE/pages/7683768404/MP2+Deployment+Strategy
+   backstage.io/techdocs-ref: url:https://uplightinc.atlassian.net/wiki/spaces/JAG/pages/7711490053/Commerce+cloud+Runbook
+  links:
+    - url: https://uplightinc.atlassian.net/wiki/spaces/JAG/pages/7711490053/Commerce+cloud+Runbook
+      title: Runbooks
+      icon: techdocs
 spec:
   type: library
   lifecycle: production
