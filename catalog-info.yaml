@@ -13,6 +13,7 @@ metadata:
    uplightinc.atlassian.net/incident-management: https://uplightinc.atlassian.net/wiki/spaces/PE/pages/7023263853/Marketplace+Outage+Communication+Protocol
    uplightinc.atlassian.net/deployment-strategy: https://uplightinc.atlassian.net/wiki/spaces/PE/pages/7683768404/MP2+Deployment+Strategy
    backstage.io/techdocs-ref: url:https://uplightinc.atlassian.net/wiki/spaces/JAG/pages/7711490053/Commerce+cloud+Runbook
+   circleci.com/project-slug: github/simpleenergy/link_bazaarvoice
   links:
     - url: https://uplightinc.atlassian.net/wiki/spaces/JAG/pages/7711490053/Commerce+cloud+Runbook
       title: Runbooks
